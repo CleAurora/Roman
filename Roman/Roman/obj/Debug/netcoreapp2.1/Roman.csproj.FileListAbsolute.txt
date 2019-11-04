@@ -1,0 +1,14 @@
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\bin\Debug\netcoreapp2.1\Roman.deps.json
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\bin\Debug\netcoreapp2.1\Roman.runtimeconfig.json
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\bin\Debug\netcoreapp2.1\Roman.runtimeconfig.dev.json
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\bin\Debug\netcoreapp2.1\Roman.dll
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.csprojAssemblyReference.cache
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.csproj.CoreCompileInputs.cache
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.RazorAssemblyInfo.cache
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.RazorAssemblyInfo.cs
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.AssemblyInfoInputs.cache
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.AssemblyInfo.cs
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.RazorTargetAssemblyInfo.cache
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\bin\Debug\netcoreapp2.1\Roman.pdb
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.dll
+C:\Users\34132336883\Desktop\SENAI\GitHub\Roman\Roman\Roman\obj\Debug\netcoreapp2.1\Roman.pdb
