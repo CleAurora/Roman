@@ -43,14 +43,6 @@ namespace Roman.Domains
                     .IsRequired()
                     .HasMaxLength(255)
                     .IsUnicode(false);
-                entity.Property(e => e.Email)
-                .IsRequired()
-                .HasMaxLength(255)
-                .IsUnique();
-                entity.Property(e => e.Senha)
-                .IsRequired()
-                .HasMaxLength(255)
-                .IsUnique();
                 entity.HasOne(d => d.IdTemaNavigation)
                     .WithMany(p => p.Projetos)
                     .HasForeignKey(d => d.IdTema)

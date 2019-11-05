@@ -36,7 +36,7 @@ namespace Roman
 
                     IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("roman-chave-autenticacao")),
 
-                    ClockSkew = TimeSpan.FromMinutes(30),
+                    ClockSkew = TimeSpan.FromHours(300),
 
                     ValidIssuer = "Roman.WebApi",
 

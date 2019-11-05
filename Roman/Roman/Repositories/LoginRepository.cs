@@ -13,7 +13,11 @@ namespace Roman.Repositories
         {
             using(RomanContext ctx = new RomanContext())
             {
-                Usuarios usuarioBuscado = ctx.Usuarios.FirstOrDefault(x => x.Email == login.Email && x.Senha == login.Senha)
+                Usuarios usuarioBuscado = ctx.Usuarios.FirstOrDefault(x => x.Email == login.Email && x.Senha == login.Senha);
+                if (usuarioBuscado == null)
+                {
+                    return null;
+                } return usuarioBuscado;
             }
         }
     }

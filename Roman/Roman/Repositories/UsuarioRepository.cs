@@ -41,6 +41,8 @@ namespace Roman.Repositories
                 Usuarios usuarioBuscado = ctx.Usuarios.Find(usuario.IdUsuario);
                 usuarioBuscado.Nome = usuario.Nome;
                 usuarioBuscado.IdTipo = usuario.IdTipo;
+                usuarioBuscado.Email = usuario.Email;
+                usuarioBuscado.Senha = usuario.Senha;
                 ctx.Usuarios.Update(usuarioBuscado);
                 ctx.SaveChanges();
             }
